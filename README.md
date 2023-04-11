@@ -1,5 +1,8 @@
 # AsakawaTap
-forked from [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap)
+
+> forked from [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap)
+
+This code repository is only established for personal hobbies, for non-profit purposes
 
 original site: [https://aidn.jp/mikutap](https://aidn.jp/mikutap)
 

@@ -12,7 +12,9 @@ original site: [https://aidn.jp/mikutap](https://aidn.jp/mikutap)
 
 # DEMO  
 
-doing
+https://asakawa.halozhy.xyz/
+
+https://asakawa-tap.vercel.app
 
 
 # 版权说明  

@@ -27,4 +27,36 @@ http://exittunes.com/license/
 ```
 由于违规使用本repo带来的后果HFIProgramming与halozhy不承担结果  
 
-
+# Audio Description
+0 no
+1 gu
+2 do
+3 ga ka
+4 de
+5 wu mu
+6 so
+7 bo o 
+8 ga a
+9 na
+10 la
+11 la higher
+12 la midder
+13 ye
+14 de 
+15 no ro higher
+16 re
+17 do highest
+18 za
+19 ba
+20 sa
+21 de
+22 na highest
+23 sa
+24 ya
+25 i
+26 de
+27 ha
+28 po bo
+29 a
+30 tsu
+31 bo 
